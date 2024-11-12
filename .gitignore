@@ -1,3 +1,4 @@
 .env
 .idx
 .cache
+__pycache__
